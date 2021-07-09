@@ -5,4 +5,4 @@
 api_version: 1
 php_version: 7.0
 database:
-  version: 10.3
+  version: 10.5
